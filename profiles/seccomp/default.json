@@ -205,6 +205,7 @@
 				"mq_timedreceive",
 				"mq_timedsend",
 				"mq_unlink",
+				"membarrier",
 				"mremap",
 				"msgctl",
 				"msgget",
